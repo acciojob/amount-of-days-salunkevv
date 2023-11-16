@@ -11,3 +11,4 @@ function dayOfAYear(year) {
 	}
 	return days;
 }
+alert(dayOfAYear(2022));
