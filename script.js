@@ -11,4 +11,5 @@ function dayOfAYear(year) {
 	}
 	return days;
 }
-alert(dayOfAYear(2022));
+const dateOne =Number(prompt("Enter year ."));
+alert(dayOfAYear(dateOne));
